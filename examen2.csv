@@ -1,0 +1,9 @@
+﻿Precio,Talla,Rebajado,Compra
+$,S,No,o
+$,L,Si,o
+$$,M,No,+
+$$,S,Si,o
+$$,M,No,o
+$$$,L,No,+
+$$$,S,Si,+
+$$$,M,Si,o
